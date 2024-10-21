@@ -47,7 +47,11 @@ const LoginView = () => {
       <Stack alignItems="center">
         <Typography variant="h2" color="text.secondary" sx={{ mb: 6 }}>
           <Link to="/" color="inherit" underline="none">
+<<<<<<< HEAD
             Chatters
+=======
+            PostIt
+>>>>>>> 2fcbb2b778cdf8a1d18bf5b0c9923b98af9e2027
           </Link>
         </Typography>
         <Typography variant="h5" gutterBottom>
